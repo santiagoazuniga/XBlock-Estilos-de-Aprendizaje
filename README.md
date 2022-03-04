@@ -7,6 +7,9 @@ Para comprender el funcionamiento de este XBlock, es necesario haber visto la gu
 # Contenido
 
 - [1. Test de Bandler y Grinder](##1.-Test-de-Bandler-y-Grinder)
+ - 1.1 Sistema de representación Visual
+ - 1.2 Sistema de representación Auditivo
+ - 1.3 Sistema de representación Kinestésico
 - [2. Gestión de la información](#2.-Gestión-de-la-información)
 - [3. Instalación](#3.-Instalación)
 - [4. Modo de uso](#4.-Modo-de-uso)
