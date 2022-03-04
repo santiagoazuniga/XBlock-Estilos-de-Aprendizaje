@@ -23,5 +23,23 @@ Los alumnos auditivos aprenden mejor cuando reciben las explicaciones oralmente 
 ## 1.3 Sistema de representación Kinestésico
 Los alumnos kinestésicos asocian sensaciones y movimientos con su cuerpo al momento de procesar la información, por ejemplo, al momento de aprender un deporte. Este sistema de aprendizaje es lento y requiere más tiempo a comparación de los dos sistemas anteriores pero es más profundo, ya que desarrolla la memoria muscular. Las personas kinestésicas están en constante movimiento y aprenden con la práctica, es decir, realizando laboratorios o proyectos.
 
+# 2. Gestión de la información
 
-    
+# 3. Instalación
+
+Para instalar este XBlock es necesario realizar los siguientes pasos:
+
+1. Descargue este XBlock desde el *Release* o realice un `git clone` al repositorio.
+2. Si descargó desde el *Release* descomprima el archivo y cópielo a la carpeta donde tiene el entorno virtual. Sí solo realizó el `git clone`, copie la carpeta donde tiene el entorno virtual.
+3. Asegurese de inicializar el entorno virtual y ejecute el comando `pip install -e adaptive_test` para instalar el Xblock en el SDK.
+4. Inicie el servidor del XBlock SDK y abra la dirección `http://127.0.0.1:8000/`, si aparece el XBlock fue instalado correctamente.
+
+# 4. Modo de uso
+
+Inicialmente se ingresa al XBlock, en este caso el test por defecto que ve el usuario es el test de Bandler y Grinder.
+
+1. El test consta de 40 preguntas y cada pregunta tiene tres opciones de respuesta, el usuario debe completar el test en su totalidad para poder continuar.
+
+2. El usuario debe contestar la totalidad de las preguntas, de lo contrario recibirá una alerta en pantalla indicando que no le permite continuar hasta realizar el test.
+
+3. El usuario recibe el resultado de su test, y al acceder de nuevo, ya no observará las preguntas del mismo test sino que tendrá el resultado.
