@@ -4,7 +4,8 @@ Este XBlock fue creado con el fin de obtener el estilo de aprendizaje de los est
 
 Para comprender el funcionamiento de este XBlock, es necesario haber visto la guía de [MyXBlock](https://github.com/J4ckDev/MyXblock).
 
-# Contenido
+# :clipboard: Contenido <!-- omit in toc -->
+
 -[1. Test de Bandler y Grinder](## 1.-Test-de-Bandler-y-Grinder)
 2. Gestión de la información
 3. Instalación
