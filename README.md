@@ -10,14 +10,5 @@ Este modelo, también llamado Visual-Auditivo-Kinestésico (VAK), toma en cuenta
     
 1.3 Sistema de representación Kinestésico: Los alumnos kinestésicos asocian sensaciones y movimientos con su cuerpo al momento de procesar la información, por ejemplo, al momento de aprender un deporte. Este sistema de aprendizaje es lento y requiere más tiempo a comparación de los dos sistemas anteriores pero es más profundo, ya que desarrolla la memoria muscular. Las personas kinestésicas están en constante movimiento y aprenden con la práctica, es decir, realizando laboratorios o proyectos.
 
-https://www.youtube.com/watch?v=84ishq1-Ybs
 
-
-
-
-    • jihijkl
-    • lkjklnm
-    • lkmkm
-    • 
-    
     
