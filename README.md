@@ -6,8 +6,7 @@ Para comprender el funcionamiento de este XBlock, es necesario haber visto la gu
 
 # Contenido
 
-
-- [1. Test de Bandler y Grinder](## 1.-Test-de-Bandler-y-Grinder)
+- [1. Test de Bandler y Grinder](##1.-Test-de-Bandler-y-Grinder)
 2. Gestión de la información
 3. Instalación
 4. Modo de uso
