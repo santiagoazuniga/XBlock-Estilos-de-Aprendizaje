@@ -40,6 +40,13 @@ Inicialmente se ingresa al XBlock, en este caso el test por defecto que ve el us
 
 1. El test consta de 40 preguntas y cada pregunta tiene tres opciones de respuesta, el usuario debe completar el test en su totalidad para poder continuar.
 
+![Inicio_test](https://user-images.githubusercontent.com/74381298/156853820-074a2038-255c-4b0b-87ec-10b5f62cc1da.png)
+
 2. El usuario debe contestar la totalidad de las preguntas, de lo contrario recibirá una alerta en pantalla indicando que no le permite continuar hasta realizar el test.
 
+![alerta-error](https://user-images.githubusercontent.com/74381298/156853840-628cf5a8-66a9-4158-ab50-d1d54a5c3be7.png)
+
 3. El usuario recibe el resultado de su test, y al acceder de nuevo, ya no observará las preguntas del mismo test sino que tendrá el resultado.
+
+![result](https://user-images.githubusercontent.com/74381298/156853871-a2e04839-7dd0-4dd0-a430-2130b879d291.png)
+
