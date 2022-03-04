@@ -13,3 +13,11 @@ Este modelo, también llamado Visual-Auditivo-Kinestésico (VAK), toma en cuenta
 https://www.youtube.com/watch?v=84ishq1-Ybs
 
 
+
+
+    • jihijkl
+    • lkjklnm
+    • lkmkm
+    • 
+    
+    
