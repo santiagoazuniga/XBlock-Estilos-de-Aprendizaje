@@ -10,7 +10,7 @@ Para comprender el funcionamiento de este XBlock, es necesario haber visto la gu
   - 1.1 Sistema de representación Visual
   - 1.2 Sistema de representación Auditivo
   - 1.3 Sistema de representación Kinestésico
-- [2. Gestión de la información](#2.-Gestión-de-la-información)
+- [2. Funciones](#2.-Funciones)
 - [3. Instalación](#3.-Instalación)
 - [4. Modo de uso](#4.-Modo-de-uso)
 
@@ -29,7 +29,9 @@ Los alumnos auditivos aprenden mejor cuando reciben las explicaciones oralmente 
 ## 1.3 Sistema de representación Kinestésico
 Los alumnos kinestésicos asocian sensaciones y movimientos con su cuerpo al momento de procesar la información, por ejemplo, al momento de aprender un deporte. Este sistema de aprendizaje es lento y requiere más tiempo a comparación de los dos sistemas anteriores pero es más profundo, ya que desarrolla la memoria muscular. Las personas kinestésicas están en constante movimiento y aprenden con la práctica, es decir, realizando laboratorios o proyectos.
 
-# 2. Gestión de la información
+# 2. Funciones
+
+####
 
 # 3. Instalación
 
